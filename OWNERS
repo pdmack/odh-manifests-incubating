@@ -1,0 +1,14 @@
+# Each list is sorted alphabetically, additions should maintain that order
+approvers:
+- crobby
+- lavlas
+- nakfour
+- pmackinn
+- vpavlin
+
+reviewers:
+- crobby
+- lavlas
+- nakfour
+- pmackinn
+- vpavlin
